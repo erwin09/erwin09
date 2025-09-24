@@ -38,4 +38,6 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [erwin09/Cursos](https://github.com/erwin09/Cursos)<br>
+2. 📔 Created new repository [erwin09/Cursos](https://github.com/erwin09/Cursos)<br>
 <!--RECENT_ACTIVITY:end-->
