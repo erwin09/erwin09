@@ -38,5 +38,4 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [erwin09/Cursos](https://github.com/erwin09/Cursos)<br>
 <!--RECENT_ACTIVITY:end-->
